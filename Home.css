@@ -9,13 +9,8 @@
   text-transform: uppercase;
   letter-spacing: 4px;
   font-weight: normal;
+  font-size: 4.5rem;
   margin: 59px 0 30px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-text-1 {
-    font-size: 4.5rem;
-  }
 }
 
 @media (max-width: 767px) {
